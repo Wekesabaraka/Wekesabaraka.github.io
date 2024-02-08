@@ -29,22 +29,22 @@
 - Emphasizes building a strong foundation in QGIS for future learning.
 
 **Advanced QGIS Techniques**
--Designed for intermediate users looking to enhance their proficiency.
--Explores advanced spatial analysis, raster data management, and plugin utilization.
--Practical exercises include creating thematic maps, conducting overlay analysis, and Python scripting for automation.
--Encourages students to unlock the full potential of QGIS.
+- Designed for intermediate users looking to enhance their proficiency.
+- Explores advanced spatial analysis, raster data management, and plugin utilization.
+- Practical exercises include creating thematic maps, conducting overlay analysis, and Python scripting for automation.
+- Encourages students to unlock the full potential of QGIS.
 
 **Field Data Collection with QGIS**
--Customized for professionals and researchers engaged in fieldwork.
--Focuses on configuring QGIS for mobile data collection and ensuring seamless data synchronization.
--Offers practical guidance on data validation and quality assurance strategies in real-world field scenarios.
--Equips participants with essential skills for efficient and accurate field data collection.
+- Customized for professionals and researchers engaged in fieldwork.
+- Focuses on configuring QGIS for mobile data collection and ensuring seamless data synchronization.
+- Offers practical guidance on data validation and quality assurance strategies in real-world field scenarios.
+- Equips participants with essential skills for efficient and accurate field data collection.
 
 **Spatial Data Analysis with QGIS Processing Framework**
--Geared towards intermediate to advanced users seeking to streamline spatial analysis workflows.
--Explores the powerful capabilities of the QGIS Processing Framework for automation and batch processing.
--Hands-on exercises cover custom scripting and algorithm development for tailored spatial analysis tasks.
--Empowers students to optimize their spatial analysis workflows and leverage QGIS efficiently for complex projects.
+- Geared towards intermediate to advanced users seeking to streamline spatial analysis workflows.
+- Explores the powerful capabilities of the QGIS Processing Framework for automation and batch processing.
+- Hands-on exercises cover custom scripting and algorithm development for tailored spatial analysis tasks.
+- Empowers students to optimize their spatial analysis workflows and leverage QGIS efficiently for complex projects.
 
-- [Linkedln](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Fiverr freelancer](https://www.fiverr.com/baraka77/be-your-qgis-tutor-from-basics-to-advanced-levels)
 
