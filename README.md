@@ -20,7 +20,7 @@
 - Provide ongoing support and assistance to address questions, concerns, and technical difficulties as they arise.
   
 ## Teaching Experience
-### QGIS Workshops and Training Sessions
+#### QGIS Workshops and Training Sessions
 **Introduction to QGIS**
 -Tailored for beginners, this workshop provides a gentle introduction to QGIS.
 -Covers fundamental features, interface navigation, and basic spatial analysis.
