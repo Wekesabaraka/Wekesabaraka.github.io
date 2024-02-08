@@ -46,5 +46,6 @@
 - Hands-on exercises cover custom scripting and algorithm development for tailored spatial analysis tasks.
 - Empowers students to optimize their spatial analysis workflows and leverage QGIS efficiently for complex projects.
 
+**Freelancing**
 - [Fiverr freelancer](https://www.fiverr.com/baraka77/be-your-qgis-tutor-from-basics-to-advanced-levels)
 
