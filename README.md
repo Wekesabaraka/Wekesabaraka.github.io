@@ -21,26 +21,29 @@
   
 ## Teaching Experience
 ### QGIS Workshops and Training Sessions
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Introduction to QGIS**
+-Tailored for beginners, this workshop provides a gentle introduction to QGIS.
+-Covers fundamental features, interface navigation, and basic spatial analysis.
+-Hands-on sessions focus on adding and styling vector layers, as well as exporting maps.
+-Emphasizes building a strong foundation in QGIS for future learning.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Advanced QGIS Techniques**
+-Designed for intermediate users looking to enhance their proficiency.
+-Explores advanced spatial analysis, raster data management, and plugin utilization.
+-Practical exercises include creating thematic maps, conducting overlay analysis, and Python scripting for automation.
+-Encourages students to unlock the full potential of QGIS.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Field Data Collection with QGIS**
+-Customized for professionals and researchers engaged in fieldwork.
+-Focuses on configuring QGIS for mobile data collection and ensuring seamless data synchronization.
+-Offers practical guidance on data validation and quality assurance strategies in real-world field scenarios.
+-Equips participants with essential skills for efficient and accurate field data collection.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Spatial Data Analysis with QGIS Processing Framework**
+-Geared towards intermediate to advanced users seeking to streamline spatial analysis workflows.
+-Explores the powerful capabilities of the QGIS Processing Framework for automation and batch processing.
+-Hands-on exercises cover custom scripting and algorithm development for tailored spatial analysis tasks.
+-Empowers students to optimize their spatial analysis workflows and leverage QGIS efficiently for complex projects.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Linkedln](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
