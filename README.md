@@ -23,10 +23,10 @@
 #### QGIS Workshops and Training Sessions
 
 **Introduction to QGIS**
--Tailored for beginners, this workshop provides a gentle introduction to QGIS.
--Covers fundamental features, interface navigation, and basic spatial analysis.
--Hands-on sessions focus on adding and styling vector layers, as well as exporting maps.
--Emphasizes building a strong foundation in QGIS for future learning.
+- Tailored for beginners, this workshop provides a gentle introduction to QGIS.
+- Covers fundamental features, interface navigation, and basic spatial analysis.
+- Hands-on sessions focus on adding and styling vector layers, as well as exporting maps.
+- Emphasizes building a strong foundation in QGIS for future learning.
 
 **Advanced QGIS Techniques**
 -Designed for intermediate users looking to enhance their proficiency.
